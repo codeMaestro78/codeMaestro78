@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @codeMaestro78
 - 👀 I’m interested in Artificial intelligence and cybersecurity
-- 🌱 I’m currently learning java and DSA
+- 🌱 I’ve done java,dbms, and dsa
+- I'm currently learning c++,web dev, and python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on instagram
 
