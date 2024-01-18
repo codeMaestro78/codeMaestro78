@@ -3,7 +3,8 @@
 - 🌱 I’ve done java,dbms, and dsa
 - I'm currently learning c++,web dev, and python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on instagram
+- 📫 How to reach me on instagram ......  >>>> @devarshi.lalani78
+
 
 <!---
 codeMaestro78/codeMaestro78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
