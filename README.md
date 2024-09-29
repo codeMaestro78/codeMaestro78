@@ -33,5 +33,6 @@ Build efficient and scalable systems
 
 📫 How to reach me:
 
-LinkedIn: [https://www.linkedin.com/in/lalani-devarshi-b048b71a8/]
+LinkedIn: [www.linkedin.com/in/
+devarshilalani05]
 GitHub: [https://github.com/codeMaestro78]
