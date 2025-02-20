@@ -1,66 +1,90 @@
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hi there! I'm **Devarshi Lalani**, a passionate software developer and student at **LJ University**, constantly pushing my boundaries in **Java, C++, Python**, and **full-stack web development** with the **MERN stack**. I thrive on solving complex problems in **Data Structures & Algorithms (DSA)** and love building **interactive, scalable, and high-performance web applications**.
+```yaml
+name: "Devarshi Lalani"
+role: "Software Developer | Web 3.0 Enthusiast"
+university: "LJ University"
+skills:
+  - Full Stack Development (MERN)
+  - Java, C++, Python
+  - Data Structures & Algorithms
+  - AI/ML & Blockchain
+```
 
 ---
 
-## 🔧 Technologies & Tools
-
-- **Languages:** Java, C++, Python, JavaScript, HTML, CSS
-- **Web Development:** MERN (MongoDB, Express.js, React, Node.js)
-- **Databases:** MongoDB, SQL, DBMS
-- **Version Control:** Git, GitHub
-- **Other Skills:** Data Structures & Algorithms, API Development, Backend Architecture
+I am a passionate **Software Developer** & **Problem Solver** who thrives on building **scalable web applications**, solving **complex algorithmic challenges**, and working on **cutting-edge technologies** like **Blockchain & AI**. 💡✨
 
 ---
 
-## 🚀 Projects
+## 🚀 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,nodejs,react,mongodb,express,git,github,django,linux,docker,solidity" />
+</p>
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeMaestro78&theme=radical" />
+</p>
+
+---
+
+## 🏆 Top Projects
 
 ### 🔹 Hospital Management System
-A **Java 8.0-based system** handling hospital operations, including **patient management, appointment scheduling, and staff coordination**.
-
-### 🔹 Counstify Hub
-A **web-based consultancy platform** built using **HTML, CSS, and JavaScript** to facilitate client and consultant interactions.
-
-### 🔹 Cryptocurrency Portfolio Tracker
-A **Java and XAMPP-based** application that enables users to track and manage cryptocurrency investments, providing insights into portfolio performance.
-
-### 🔹 Inventory Tracking System
-Implemented using **DBMS**, this system helps manage and monitor inventory levels, tracking stock movement and generating analytical reports.
-
-### 🔹 Stock Market Management System
-A **Python-based** project featuring **stock market analysis tools**, investment management functionalities, and **automated trading strategies**.
+🚑 **Java 8.0-based system** handling hospital operations, including **patient management, appointment scheduling, and staff coordination**.
 
 ### 🔹 StockMatrix
-A comprehensive platform focused on **technical and fundamental stock market analysis**, helping investors make data-driven decisions.
+📈 A platform focused on **technical and fundamental stock market analysis**, helping investors make **data-driven decisions**.
+
+### 🔹 Cryptocurrency Portfolio Tracker
+💰 **Java & XAMPP-based app** that enables users to track and manage cryptocurrency investments with real-time market insights.
 
 ### 🔹 TrendHive
-An innovative **fashion e-commerce platform**, offering personalized recommendations and a seamless shopping experience.
+🛍 **Fashion e-commerce platform** using AI-powered personalized recommendations for an enhanced shopping experience.
+
+> Check out more projects **[here](https://github.com/codeMaestro78?tab=repositories)** 🚀
 
 ---
 
 ## 🌱 Currently Learning
 
-✔ Web 3.0 Development (Blockchain & Smart Contracts)  
-✔ Advanced React Patterns & Performance Optimization  
-✔ Scalable Backend Architecture & Microservices  
+📌 **Web 3.0 Development** (Blockchain, Smart Contracts, DApps)  
+📌 **Advanced React Patterns & Performance Optimization**  
+📌 **Scalable Backend Architecture & Microservices**  
+📌 **Deep Learning & NLP for AI Applications**  
+📌 **Cloud Computing & DevOps with AWS, Docker, Kubernetes**
 
 ---
 
-## 🎯 Goals
+## 📫 Connect With Me
 
-✅ Become a **Web 3.0 Developer**  
-✅ Contribute to **open-source projects**  
-✅ Build **efficient and scalable systems**  
-✅ Continuously **refine my problem-solving skills** in **DSA**
+<p align="center">
+  <a href="https://linkedin.com/in/devarshilalani05">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/codeMaestro78">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:thelogical369@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## ⚡ Fun Fact
 
-🔗 **LinkedIn:** [www.linkedin.com/in/devarshilalani05](https://www.linkedin.com/in/devarshilalani05)  
-🐙 **GitHub:** [github.com/codeMaestro78](https://github.com/codeMaestro78)  
-📩 **Email:** [devarshilalani05@example.com](mailto:devarshilalani05@example.com)  
+> "🚀 Debugging is like being the detective in a crime movie where you are also the murderer! 🕵️‍♂️💻"
 
-Let's build something amazing together! 🚀
+---
+
+![](https://komarev.com/ghpvc/?username=codeMaestro78&color=blue&style=flat-square)
+
+Let's build something amazing together! 🚀✨
 
