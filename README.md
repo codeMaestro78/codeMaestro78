@@ -9,6 +9,7 @@ skills:
   - Java, C++, Python
   - Data Structures & Algorithms
   - AI/ML & Blockchain
+  - Git & Github
 ```
 
 ---
