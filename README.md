@@ -21,7 +21,7 @@ I am a passionate **Software Developer** & **Problem Solver** who thrives on bui
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,nodejs,react,mongodb,express,git,github,django,linux,docker,solidity" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,nodejs,react,mongodb,express,git,github,django,docker,solidity" />
 </p>
 
 ---
@@ -32,6 +32,7 @@ I am a passionate **Software Developer** & **Problem Solver** who thrives on bui
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeMaestro78&theme=radical" />
 </p>
+
 
 ---
 
