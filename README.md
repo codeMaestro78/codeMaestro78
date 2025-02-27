@@ -16,7 +16,7 @@ I am a passionate Software Developer & Problem Solver who thrives on building sc
 ---
 ## 🚀 Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,nodejs,react,mongodb,express,git,github,django,docker,solidity,aws,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,nodejs,react,mongodb,express,git,github,django,docker,solidity,aws,kubernetes,graphql,tailwind,postman,redis" />
 </p>
 
 ---
@@ -43,6 +43,12 @@ I am a passionate Software Developer & Problem Solver who thrives on building sc
 </p>
 
 ---
+## 🎯 Coding Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeMaestro78&theme=radical&layout=compact&langs_count=10" />
+</p>
+
+---
 ## 🏆 Top Projects
 ### 🔹 Hospital Management System
 🚑 Java 8.0-based system handling hospital operations, including patient management, appointment scheduling, and staff coordination.
@@ -52,6 +58,8 @@ I am a passionate Software Developer & Problem Solver who thrives on building sc
 💰 Java & XAMPP-based app that enables users to track and manage cryptocurrency investments with real-time market insights.
 ### 🔹 TrendHive
 🛍 Fashion e-commerce platform using AI-powered personalized recommendations for an enhanced shopping experience.
+### 🔹 Peer-to-Peer File Sharing System
+📡 Secure and efficient decentralized file-sharing system using cryptography and UDP/TCP protocols.
 > Check out more projects [here](https://github.com/codeMaestro78?tab=repositories) 🚀
 
 ---
@@ -61,6 +69,7 @@ I am a passionate Software Developer & Problem Solver who thrives on building sc
 - 📌 Scalable Backend Architecture & Microservices  
 - 📌 Deep Learning & NLP for AI Applications  
 - 📌 Cloud Computing & DevOps with AWS, Docker, Kubernetes  
+- 📌 Algorithmic Trading with Python & Financial Market Analysis  
 
 ---
 ## 📫 Connect With Me
@@ -73,6 +82,9 @@ I am a passionate Software Developer & Problem Solver who thrives on building sc
   </a>
   <a href="mailto:thelogical369@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://twitter.com/DevarshiLalani">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 
