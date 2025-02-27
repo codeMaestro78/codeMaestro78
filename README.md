@@ -16,7 +16,7 @@ I am a passionate Software Developer & Problem Solver who thrives on building sc
 ---
 ## 🚀 Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,nodejs,react,mongodb,express,git,github,django,docker,solidity,aws,kubernetes,graphql,tailwind,postman,redis" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,nodejs,react,mongodb,express,git,github,django,docker,solidity,aws,tailwind,postman" />
 </p>
 
 ---
