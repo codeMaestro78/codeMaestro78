@@ -280,23 +280,7 @@ ai_roadmap = {
 ---
 
 
----
 
-## 🌟 **Community & Social Impact** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-
-<div align="center">
-
-
-
-### 📈 **Impact Metrics**
-<img src="https://img.shields.io/badge/👥%20Students%20Mentored-50%2B-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📚%20Articles%20Published-25%2B-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯%20Workshop%20Attendees-500%2B-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-1K%2B-yellow?style=for-the-badge"/>
-
-</div>
-
----
 
 ## 🎨 **Creative Coding Showcase** <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40">
 
