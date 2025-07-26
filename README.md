@@ -320,50 +320,6 @@ architecture:
 
 <div align="center">
 
-<table>
-<tr>
-<th>Technology</th>
-<th>Proficiency</th>
-<th>Experience</th>
-<th>Projects</th>
-</tr>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=java" width="20"/> Java</td>
-<td><img src="https://progress-bar.dev/95/?title=Expert&width=200&color=00D9FF"/></td>
-<td>3+ years</td>
-<td>15+ projects</td>
-</tr>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=python" width="20"/> Python</td>
-<td><img src="https://progress-bar.dev/90/?title=Expert&width=200&color=00D9FF"/></td>
-<td>2+ years</td>
-<td>12+ projects</td>
-</tr>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=react" width="20"/> React</td>
-<td><img src="https://progress-bar.dev/88/?title=Advanced&width=200&color=4ECDC4"/></td>
-<td>2+ years</td>
-<td>10+ projects</td>
-</tr>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=nodejs" width="20"/> Node.js</td>
-<td><img src="https://progress-bar.dev/85/?title=Advanced&width=200&color=4ECDC4"/></td>
-<td>2+ years</td>
-<td>8+ projects</td>
-</tr>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=solidity" width="20"/> Solidity</td>
-<td><img src="https://progress-bar.dev/80/?title=Proficient&width=200&color=FFE66D"/></td>
-<td>1+ years</td>
-<td>5+ projects</td>
-</tr>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=aws" width="20"/> AWS</td>
-<td><img src="https://progress-bar.dev/75/?title=Proficient&width=200&color=FFE66D"/></td>
-<td>1+ years</td>
-<td>6+ projects</td>
-</tr>
-</table>
 
 </div>
 
