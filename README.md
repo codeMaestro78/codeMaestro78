@@ -232,28 +232,7 @@ availability: "Open for exciting opportunities"
 </tr>
 </table>
 
-<details>
-<summary><b>🔍 View More Projects</b></summary>
 
-### 📡 **P2P File Sharing System**
-- **Blockchain-based** file verification
-- **End-to-end Encryption** with AES-256
-- **Distributed Hash Table** implementation
-- **BitTorrent Protocol** optimization
-
-### 🎮 **GameFi Platform**
-- **Play-to-Earn** mechanism design
-- **NFT Marketplace** integration
-- **Smart Contract** game logic
-- **Multi-chain** compatibility
-
-### 🌐 **Decentralized Social Network**
-- **IPFS** content distribution
-- **Ethereum** smart contracts
-- **Privacy-first** architecture
-- **Censorship-resistant** design
-
-</details>
 
 [![Explore All Projects](https://img.shields.io/badge/🚀%20Explore%20All%20Projects-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/codeMaestro78?tab=repositories)
 
@@ -272,9 +251,9 @@ availability: "Open for exciting opportunities"
 ### 🔗 **Blockchain & Web3**
 ```javascript
 const web3Skills = {
-  current: ["Solidity", "Web3.js", "Hardhat"],
-  learning: ["ZK-SNARKs", "Layer 2", "DeFi"],
-  next: ["Rust", "Polkadot", "Cosmos"],
+  current: ["Solidity", "Web3.js"],
+  learning: ["DeFi"],
+  next: ["Rust"],
   timeline: "Q3-Q4 2025"
 };
 ```
@@ -287,24 +266,14 @@ const web3Skills = {
 ai_roadmap = {
     "deep_learning": ["Transformers", "GANs"],
     "nlp": ["BERT", "GPT", "LLaMA"],
-    "computer_vision": ["YOLO", "ResNet"],
     "reinforcement": ["Q-Learning", "PPO"],
-    "frameworks": ["PyTorch", "JAX"]
+    "frameworks": ["Tensorflow", "JAX"]
 }
 ```
 
 </td>
 <td width="33%">
 
-### ⚡ **Performance & Scale**
-```yaml
-architecture:
-  microservices: "Advanced patterns"
-  containers: "Kubernetes orchestration"
-  databases: "Distributed systems"
-  caching: "Redis clusters"
-  monitoring: "Observability stack"
-```
 
 </td>
 </tr>
@@ -316,12 +285,6 @@ architecture:
 
 ---
 
-## 🎯 **Skills Proficiency Matrix** <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40">
-
-<div align="center">
-
-
-</div>
 
 ---
 
