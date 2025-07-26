@@ -137,18 +137,12 @@ availability: "Open for exciting opportunities"
 <td align="center">
 <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="80"/>
 <br/><b>🔥 Streak Master</b>
-<br/>Consistent coding for 100+ days
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
 <br/><b>💡 Problem Solver</b>
-<br/>500+ algorithmic challenges solved
 </td>
-<td align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"/>
-<br/><b>🚀 Innovation Leader</b>
-<br/>Multiple award-winning projects
-</td>
+
 <td align="center">
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80"/>
 <br/><b>🌟 Open Source</b>
