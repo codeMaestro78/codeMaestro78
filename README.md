@@ -46,8 +46,8 @@ availability: "Open for exciting opportunities"
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="100%"/>
 
 **⚡ Quick Stats**
-- 🔥 **3+ years** of coding experience  
-- 🚀 **50+ projects** completed  
+- 🔥 **1+ years** of coding experience  
+- 🚀 **20+ projects** completed  
 - 🌟 **10+ technologies** mastered  
 - 💡 **∞** problems solved  
 - ☕ **1000+** cups of coffee consumed  
@@ -373,30 +373,7 @@ architecture:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
-<br/><b>📚 Mentoring</b>
-<br/>50+ developers guided
-</td>
-<td width="25%" align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
-<br/><b>🎤 Speaking</b>
-<br/>10+ tech talks delivered
-</td>
-<td width="25%" align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
-<br/><b>📝 Writing</b>
-<br/>Tech articles & tutorials
-</td>
-<td width="25%" align="center">
-<img src="https://media.giphy.com/media/26FLgGTPUDH6UGAbm/giphy.gif" width="80"/>
-<br/><b>🤝 Contributing</b>
-<br/>Open source maintainer
-</td>
-</tr>
-</table>
+
 
 ### 📈 **Impact Metrics**
 <img src="https://img.shields.io/badge/👥%20Students%20Mentored-50%2B-brightgreen?style=for-the-badge"/>
