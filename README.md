@@ -142,12 +142,6 @@ availability: "Open for exciting opportunities"
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
 <br/><b>💡 Problem Solver</b>
 </td>
-
-<td align="center">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80"/>
-<br/><b>🌟 Open Source</b>
-<br/>Active contributor & maintainer
-</td>
 </tr>
 </table>
 
@@ -155,75 +149,6 @@ availability: "Open for exciting opportunities"
 
 ---
 
-## 🚀 **Flagship Projects Portfolio** <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 **Hospital Management System**
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-> 🎯 **Advanced Healthcare Solution**
-> - **Patient Management** with AI-powered diagnostics
-> - **Real-time Appointment** scheduling system
-> - **Staff Coordination** with role-based access
-> - **Medical Records** with blockchain security
-> - **Reporting Dashboard** with analytics
-
-[![View Project](https://img.shields.io/badge/🔍%20View%20Project-00D9FF?style=for-the-badge)](https://github.com/codeMaestro78)
-
-</td>
-<td width="50%">
-
-### 📈 **StockMatrix**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-
-> 📊 **AI-Powered Trading Platform**
-> - **ML Algorithms** for market prediction
-> - **Technical Analysis** with 50+ indicators
-> - **Portfolio Optimization** algorithms
-> - **Risk Assessment** models
-> - **Real-time Data** streaming
-
-[![View Project](https://img.shields.io/badge/🔍%20View%20Project-00D9FF?style=for-the-badge)](https://github.com/codeMaestro78)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 **CryptoCurrency Portfolio Tracker**
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
-
-> 🔐 **Decentralized Finance Solution**
-> - **Multi-chain** portfolio tracking
-> - **DeFi Integration** with yield farming
-> - **NFT Management** system
-> - **Smart Contract** interactions
-> - **Tax Reporting** automation
-
-[![View Project](https://img.shields.io/badge/🔍%20View%20Project-00D9FF?style=for-the-badge)](https://github.com/codeMaestro78)
-
-</td>
-<td width="50%">
-
-### 🛍️ **TrendHive**
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-
-[![View Project](https://img.shields.io/badge/🔍%20View%20Project-00D9FF?style=for-the-badge)](https://github.com/codeMaestro78)
-
-</td>
-</tr>
-</table>
-
-
-
-[![Explore All Projects](https://img.shields.io/badge/🚀%20Explore%20All%20Projects-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/codeMaestro78?tab=repositories)
-
-</div>
 
 ---
 
