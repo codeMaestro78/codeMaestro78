@@ -46,7 +46,7 @@ availability: "Open for exciting opportunities"
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="100%"/>
 
 **⚡ Quick Stats**
-- 🔥 **1+ years** of coding experience  
+- 🔥 **2+ years** of coding experience  
 - 🚀 **20+ projects** completed  
 - 🌟 **10+ technologies** mastered  
 - 💡 **∞** problems solved  
