@@ -6,7 +6,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 </div>
 
@@ -81,6 +81,7 @@ availability: "Open for exciting opportunities"
 
 ### **🤖 AI/ML & Blockchain**
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black"/>
@@ -142,13 +143,18 @@ availability: "Open for exciting opportunities"
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
 <br/><b>💡 Problem Solver</b>
 </td>
+<td align="center">
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="80"/>
+<br/><b>🚀 Innovator</b>
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"/>
+<br/><b>📚 Lifelong Learner</b>
+</td>
 </tr>
 </table>
 
 </div>
-
----
-
 
 ---
 
@@ -158,53 +164,49 @@ availability: "Open for exciting opportunities"
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### 🔗 **Blockchain & Web3**
 ```javascript
 const web3Skills = {
-  current: ["Solidity", "Web3.js"],
-  learning: ["DeFi"],
-  next: ["Rust"],
+  current: ["Solidity", "Web3.js", "Smart Contracts"],
+  learning: ["DeFi Protocols", "NFT Development"],
+  next: ["Rust", "Polkadot", "Layer 2 Solutions"],
   timeline: "Q3-Q4 2025"
 };
 ```
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### 🤖 **AI/ML Advanced**
 ```python
 ai_roadmap = {
-    "deep_learning": ["Transformers", "GANs"],
-    "nlp": ["BERT", "GPT", "LLaMA"],
-    "reinforcement": ["Q-Learning", "PPO"],
-    "frameworks": ["Tensorflow", "PyTorch"]
+    "deep_learning": ["Transformers", "GANs", "CNN"],
+    "nlp": ["BERT", "GPT", "LLaMA", "Hugging Face"],
+    "reinforcement": ["Q-Learning", "PPO", "DDPG"],
+    "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"]
 }
 ```
-
-</td>
-<td width="33%">
-
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeMaestro78&theme=github_dark&hide_border=true&layout=compact&custom_title=⏱️%20Weekly%20Development%20Breakdown"/>
+### **📈 Current Focus Areas**
+- 🔥 **Advanced React Patterns** - Hooks, Context, Performance Optimization
+- ⚡ **Microservices Architecture** - Docker, Kubernetes, Service Mesh
+- 🌐 **Web3 Integration** - DApp Development, Smart Contract Auditing
+- 🤖 **MLOps Pipeline** - Model Deployment, Monitoring, Automation
 
 </div>
 
 ---
 
-
-
-
 ## 🎨 **Creative Coding Showcase** <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40">
 
 <div align="center">
 
-<!-- ASCII Art Animation -->
 ```
     ╔═══════════════════════════════════════════════════════════╗
     ║  ____                        _     _   _       _         ║
@@ -217,7 +219,13 @@ ai_roadmap = {
     ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<br/>
+
+### **💡 What I'm Currently Working On**
+- 🔐 **DeFi Protocol** - Building a decentralized lending platform
+- 🤖 **AI-Powered Analytics** - Machine learning for data insights  
+- 🌐 **Full-Stack E-commerce** - React + Node.js + MongoDB
+- 📱 **Mobile App** - React Native with blockchain integration
 
 </div>
 
@@ -231,7 +239,7 @@ ai_roadmap = {
 <tr>
 <td align="center">
 <a href="https://linkedin.com/in/devarshilalani05">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br/><sub><b>Professional Network</b></sub>
 </td>
@@ -256,16 +264,17 @@ ai_roadmap = {
 </tr>
 </table>
 
-### 🎯 **Open For:**
+### 🎯 **Currently Open For:**
 <img src="https://img.shields.io/badge/💼%20Job%20Opportunities-Available-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🤝%20Collaborations-Welcome-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🎓%20Mentoring-Active-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💡%20Consulting-Open-purple?style=for-the-badge"/>
 
-### 💬 **Current Availability**
+### 💬 **Availability Status**
 > 🟢 **Available for exciting opportunities!**  
 > 📅 **Response time: Within 24 hours**  
-> 🌐 **Timezone: IST (UTC +05:30)**
+> 🌐 **Timezone: IST (UTC +05:30)**  
+> 💼 **Preferred work style: Remote/Hybrid**
 
 </div>
 
@@ -287,6 +296,6 @@ ai_roadmap = {
 
 ---
 
-<sub>⚡ **Fun Fact:** This README contains over 100 lines of code and took 5+ hours to perfect! 🎨</sub>
+<sub>⚡ **Fun Fact:** This README is a living document that evolves with my journey! 🎨</sub>
 
 </div>
