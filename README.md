@@ -102,22 +102,17 @@ availability: "Open for exciting opportunities"
 <img src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=🚀%20GitHub%20Statistics"/>
 </td>
 <td width="50%">
-<img src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF"/>
 </td>
 </tr>
 </table>
 
-### 🔥 **Comprehensive Streak Analytics & Longest Streak Tracker**
+### 🔥 **GitHub Streak & Longest Streak Analytics**
 <div align="center">
-<table>
-<tr>
-<td width="100%" align="center">
-<img src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF&show_longest_streak=true&format=compact"/>
-<br/>
-<sub><b>📊 Complete Streak Overview - Current • Longest • Total Contributions</b></sub>
-</td>
-</tr>
-</table>
+
+<!-- Primary Streak Display - Shows Current, Longest, and Total -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="GitHub Streak Stats"/>
+
 </div>
 
 ### 🏆 **Streak Achievement Breakdown**
@@ -126,31 +121,32 @@ availability: "Open for exciting opportunities"
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"/>
 <br/>
-<img src="https://img.shields.io/badge/🔥%20Current%20Streak-Live%20Counter-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Active Coding Days</b></sub>
+<img src="https://img.shields.io/badge/🔥%20Current%20Streak-Active%20Days-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Ongoing Commitment</b></sub>
 </td>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"/>
 <br/>
-<img src="https://img.shields.io/badge/🏆%20Longest%20Streak-Personal%20Best-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Maximum Achievement</b></sub>
+<img src="https://img.shields.io/badge/🏆%20Longest%20Streak-Personal%20Record-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Best Achievement</b></sub>
 </td>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60"/>
 <br/>
-<img src="https://img.shields.io/badge/📈%20Total%20Contributions-Lifetime-45B7D1?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Overall Activity</b></sub>
+<img src="https://img.shields.io/badge/📈%20Total%20Contributions-This%20Year-45B7D1?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Annual Progress</b></sub>
 </td>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/>
 <br/>
-<img src="https://img.shields.io/badge/💪%20Consistency%20Rate-Daily%20Goal-96CEB4?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Dedication Level</b></sub>
+<img src="https://img.shields.io/badge/💪%20Consistency-Daily%20Code-96CEB4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Commitment Level</b></sub>
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeMaestro78&custom_title=📈%20Contribution%20Activity%20Graph%20-%20Longest%20Streak%20Visualization&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&area=true&hide_border=true"/>
+### 📈 **Detailed Contribution Analysis**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeMaestro78&custom_title=📊%20Contribution%20Activity%20%7C%20Streak%20Visualization%20%7C%20Longest%20Streak%20Tracker&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&area=true&hide_border=true"/>
 
 <table>
 <tr>
@@ -166,7 +162,7 @@ availability: "Open for exciting opportunities"
 </tr>
 </table>
 
-### 📊 **Real-Time GitHub Metrics**
+### 📊 **Live GitHub Metrics**
 <div align="center">
 <table>
 <tr>
@@ -218,28 +214,28 @@ availability: "Open for exciting opportunities"
 </tr>
 </table>
 
-### 🎯 **Streak Goals & Milestones**
+### 🎯 **Streak Milestones & Goals Dashboard**
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🎯%20Next%20Goal-100%20Days-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Upcoming Target</b></sub>
+<img src="https://img.shields.io/badge/🎯%20Next%20Target-100%20Days-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Upcoming Milestone</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🏅%20Milestone-50%20Days-FFD93D?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Recent Achievement</b></sub>
+<img src="https://img.shields.io/badge/🏅%20Recent%20Win-30%20Days-FFD93D?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Latest Achievement</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/💪%20Challenge-365%20Days-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Ultimate Goal</b></sub>
+<img src="https://img.shields.io/badge/💪%20Ultimate%20Goal-365%20Days-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Annual Challenge</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/📊%20Tracking-Live-45B7D1?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Real-time Updates</b></sub>
+<img src="https://img.shields.io/badge/📊%20Status-Tracking-45B7D1?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Live Monitoring</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🔥%20Motivation-High-96CEB4?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Energy Level</b></sub>
+<img src="https://img.shields.io/badge/🔥%20Motivation-Maximum-96CEB4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Drive Level</b></sub>
 </td>
 </tr>
 </table>
