@@ -102,36 +102,55 @@ availability: "Open for exciting opportunities"
 <img src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=🚀%20GitHub%20Statistics"/>
 </td>
 <td width="50%">
-<img src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF"/>
+<img src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF"/>
 </td>
 </tr>
 </table>
 
-### 🔥 **Streak & Contribution Analytics**
+### 🔥 **Comprehensive Streak Analytics & Longest Streak Tracker**
+<div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="100%" align="center">
+<img src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF&show_longest_streak=true&format=compact"/>
+<br/>
+<sub><b>📊 Complete Streak Overview - Current • Longest • Total Contributions</b></sub>
+</td>
+</tr>
+</table>
+</div>
+
+### 🏆 **Streak Achievement Breakdown**
+<table>
+<tr>
+<td width="25%" align="center">
 <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"/>
 <br/>
-<img src="https://streak-stats.demolab.com/api/streak/longest-streak?username=codeMaestro78&theme=dark"/>
-<br/><b>🏆 Longest Streak Record</b>
+<img src="https://img.shields.io/badge/🔥%20Current%20Streak-Live%20Counter-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Active Coding Days</b></sub>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"/>
 <br/>
-<img src="https://streak-stats.demolab.com/api/streak/current-streak?username=codeMaestro78&theme=dark"/>
-<br/><b>🔥 Current Active Streak</b>
+<img src="https://img.shields.io/badge/🏆%20Longest%20Streak-Personal%20Best-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Maximum Achievement</b></sub>
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show=commits&custom_title=Total%20Commits"/>
-<br/><b>📈 Commitment Level</b>
+<img src="https://img.shields.io/badge/📈%20Total%20Contributions-Lifetime-45B7D1?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Overall Activity</b></sub>
+</td>
+<td width="25%" align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60"/>
+<br/>
+<img src="https://img.shields.io/badge/💪%20Consistency%20Rate-Daily%20Goal-96CEB4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Dedication Level</b></sub>
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeMaestro78&custom_title=📈%20Contribution%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeMaestro78&custom_title=📈%20Contribution%20Activity%20Graph%20-%20Longest%20Streak%20Visualization&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&area=true&hide_border=true"/>
 
 <table>
 <tr>
@@ -147,18 +166,18 @@ availability: "Open for exciting opportunities"
 </tr>
 </table>
 
-### 📊 **Detailed Contribution Metrics**
+### 📊 **Real-Time GitHub Metrics**
 <div align="center">
 <table>
 <tr>
 <td align="center">
+<img src="https://img.shields.io/github/followers/codeMaestro78?label=Followers&style=for-the-badge&color=58A6FF&labelColor=1e2139&logo=github"/>
+</td>
+<td align="center">
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/codeMaestro78&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=58A6FF&labelColor=1e2139&logo=github"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/codeMaestro78&query=$.followers&label=Followers&style=for-the-badge&color=58A6FF&labelColor=1e2139&logo=github"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/codeMaestro78&query=$.following&label=Following&style=for-the-badge&color=58A6FF&labelColor=1e2139&logo=github"/>
+<img src="https://img.shields.io/github/stars/codeMaestro78?label=Total%20Stars&style=for-the-badge&color=58A6FF&labelColor=1e2139&logo=github"/>
 </td>
 </tr>
 </table>
@@ -199,24 +218,28 @@ availability: "Open for exciting opportunities"
 </tr>
 </table>
 
-### 🎯 **Streak Milestones & Goals**
+### 🎯 **Streak Goals & Milestones**
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯%20Current%20Goal-100%20Days-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Next Milestone Target</b></sub>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🎯%20Next%20Goal-100%20Days-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Upcoming Target</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏆%20Best%20Streak-Tracking-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Personal Record</b></sub>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🏅%20Milestone-50%20Days-FFD93D?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Recent Achievement</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💪%20Consistency-Daily-45B7D1?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Commitment Level</b></sub>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/💪%20Challenge-365%20Days-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Ultimate Goal</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎊%20Total%20Days-Active-96CEB4?style=for-the-badge&labelColor=1e2139"/>
-<br/><sub><b>Coding Journey</b></sub>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/📊%20Tracking-Live-45B7D1?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Real-time Updates</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔥%20Motivation-High-96CEB4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Energy Level</b></sub>
 </td>
 </tr>
 </table>
@@ -270,23 +293,36 @@ ai_roadmap = {
 
 ---
 
-## 🎨 **Creative Coding Showcase** <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40">
+## 🎨 **Featured Repositories** <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40">
 
 <div align="center">
 
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║  ____                        _     _   _       _         ║
-    ║ |  _ \  _____   ____ _ _ __ ___| |__ (_) | | __ _| | __ _ _ ║
-    ║ | | | |/ _ \ \ / / _` | '__/ __| '_ \| | | |/ _` | |/ _` | ║
-    ║ | |_| |  __/\ V / (_| | |  \__ \ | | | | | | (_| | | (_| | ║
-    ║ |____/ \___| \_/ \__,_|_|  |___/_| |_|_| |_|\__,_|_|\__,_| ║
-    ║                                                           ║
-    ║         🚀 Building the Future, One Line at a Time 🚀    ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
-
-<br/>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/codeMaestro78/Machine-learning">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeMaestro78&repo=Machine-learning&theme=github_dark&hide_border=true"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/codeMaestro78/DSA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeMaestro78&repo=DSA&theme=github_dark&hide_border=true"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/codeMaestro78/markdown-notes-mcp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=codeMaestro78&repo=markdown-notes-mcp&theme=github_dark&hide_border=true"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/eccentriccoder01/TalkHeal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eccentriccoder01&repo=TalkHeal&theme=github_dark&hide_border=true"/>
+</a>
+</td>
+</tr>
+</table>
 
 ### **💡 What I'm Currently Working On**
 - 🔐 **DeFi Protocol** - Building a decentralized lending platform
