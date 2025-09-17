@@ -102,7 +102,7 @@ availability: "Open for exciting opportunities"
 <img src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=🚀%20GitHub%20Statistics"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeMaestro78&theme=github-dark-blue&hide_border=true&stroke=0D1117&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF"/>
 </td>
 </tr>
 </table>
@@ -299,3 +299,4 @@ ai_roadmap = {
 <sub>⚡ **Fun Fact:** This README is a living document that evolves with my journey! 🎨</sub>
 
 </div>
+
