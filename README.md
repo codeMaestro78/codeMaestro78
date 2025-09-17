@@ -107,6 +107,30 @@ availability: "Open for exciting opportunities"
 </tr>
 </table>
 
+### 🔥 **Streak & Contribution Analytics**
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"/>
+<br/>
+<img src="https://streak-stats.demolab.com/api/streak/longest-streak?username=codeMaestro78&theme=dark"/>
+<br/><b>🏆 Longest Streak Record</b>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"/>
+<br/>
+<img src="https://streak-stats.demolab.com/api/streak/current-streak?username=codeMaestro78&theme=dark"/>
+<br/><b>🔥 Current Active Streak</b>
+</td>
+<td width="33%" align="center">
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show=commits&custom_title=Total%20Commits"/>
+<br/><b>📈 Commitment Level</b>
+</td>
+</tr>
+</table>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeMaestro78&custom_title=📈%20Contribution%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&area=true&hide_border=true"/>
 
 <table>
@@ -123,6 +147,23 @@ availability: "Open for exciting opportunities"
 </tr>
 </table>
 
+### 📊 **Detailed Contribution Metrics**
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/codeMaestro78&query=$.public_repos&label=Public%20Repos&style=for-the-badge&color=58A6FF&labelColor=1e2139&logo=github"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/codeMaestro78&query=$.followers&label=Followers&style=for-the-badge&color=58A6FF&labelColor=1e2139&logo=github"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/codeMaestro78&query=$.following&label=Following&style=for-the-badge&color=58A6FF&labelColor=1e2139&logo=github"/>
+</td>
+</tr>
+</table>
+</div>
+
 </div>
 
 ---
@@ -138,18 +179,44 @@ availability: "Open for exciting opportunities"
 <td align="center">
 <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="80"/>
 <br/><b>🔥 Streak Master</b>
+<br/><sub>Consistent Daily Commits</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
 <br/><b>💡 Problem Solver</b>
+<br/><sub>Complex Algorithm Solutions</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="80"/>
 <br/><b>🚀 Innovator</b>
+<br/><sub>Cutting-edge Technologies</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"/>
 <br/><b>📚 Lifelong Learner</b>
+<br/><sub>Continuous Skill Development</sub>
+</td>
+</tr>
+</table>
+
+### 🎯 **Streak Milestones & Goals**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯%20Current%20Goal-100%20Days-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Next Milestone Target</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆%20Best%20Streak-Tracking-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Personal Record</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💪%20Consistency-Daily-45B7D1?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Commitment Level</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎊%20Total%20Days-Active-96CEB4?style=for-the-badge&labelColor=1e2139"/>
+<br/><sub><b>Coding Journey</b></sub>
 </td>
 </tr>
 </table>
@@ -299,4 +366,3 @@ ai_roadmap = {
 <sub>⚡ **Fun Fact:** This README is a living document that evolves with my journey! 🎨</sub>
 
 </div>
-
