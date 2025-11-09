@@ -24,7 +24,7 @@
 # 🧬 Developer DNA
 name: "Devarshi Lalani"
 alias: "CodeMaestro78"
-role: "Full Stack Architect & Blockchain Pioneer"
+role: "AIML Architect || Full Stack Developer"
 university: "LJ University"
 location: "Ahmedabad, Gujarat, India 🇮🇳"
 timezone: "IST (UTC +05:30)"
@@ -46,7 +46,7 @@ availability: "Open for exciting opportunities"
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="100%"/>
 
 **⚡ Quick Stats**
-- 🔥 **2+ years** of coding experience  
+- 🔥 **1+ years** of coding experience  
 - 🚀 **20+ projects** completed  
 - 🌟 **10+ technologies** mastered  
 - 💡 **∞** problems solved  
@@ -65,19 +65,19 @@ availability: "Open for exciting opportunities"
 <div align="center">
 
 ### **🔥 Core Programming Languages**
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,solidity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,solidity&theme=dark" />
 
 ### **🎨 Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui&theme=dark" />
 
 ### **⚙️ Backend Excellence** 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 
 ### **🗄️ Database & Storage**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 
 ### **☁️ Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,github,git,postman&theme=dark" />
 
 ### **🤖 AI/ML & Blockchain**
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
@@ -324,7 +324,6 @@ ai_roadmap = {
 - 🔐 **DeFi Protocol** - Building a decentralized lending platform
 - 🤖 **AI-Powered Analytics** - Machine learning for data insights  
 - 🌐 **Full-Stack E-commerce** - React + Node.js + MongoDB
-- 📱 **Mobile App** - React Native with blockchain integration
 
 </div>
 
