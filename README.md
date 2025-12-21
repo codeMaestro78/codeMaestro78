@@ -1,12 +1,12 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Welcome to **Devarshi's Digital Universe** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Welcome to **Devarshi's AI/ML Universe** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Blockchain+Architect;%F0%9F%A7%A0+AI%2FML+Engineer+%7C+Problem+Solver;%F0%9F%8C%90+Web3+Pioneer+%7C+Innovation+Catalyst;%F0%9F%92%A1+Building+Tomorrow%27s+Technology+Today!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%F0%9F%A4%96+AI%2FML+Engineer+%7C+Deep+Learning+Specialist;%F0%9F%A7%A0+LLM+Architect+%7C+Transformer+Expert;%F0%9F%93%8A+Data+Scientist+%7C+Neural+Network+Designer;%F0%9F%92%A1+Building+Intelligent+Systems+Today!" alt="Typing SVG" />
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Innovate&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Deploy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 </div>
 
@@ -21,23 +21,23 @@
 <td width="50%">
 
 ```yaml
-# 🧬 Developer DNA
+# 🧬 AI/ML Engineer DNA
 name: "Devarshi Lalani"
 alias: "CodeMaestro78"
-role: "AIML Architect || Full Stack Developer"
+role: "AI/ML Engineer || Deep Learning Specialist"
 university: "LJ University"
 location: "Ahmedabad, Gujarat, India 🇮🇳"
 timezone: "IST (UTC +05:30)"
 
 # 🎯 Mission Statement
 mission: |
-  "Transforming ideas into scalable solutions
-   through cutting-edge technology and
-   innovative problem-solving approaches"
+  "Developing intelligent systems that learn,
+   adapt, and solve complex problems using
+   cutting-edge AI/ML and deep learning"
    
-# 🚀 Current Status
-status: "Building the decentralized future"
-availability: "Open for exciting opportunities"
+# 🚀 Current Focus
+status: "Building transformer-based AI solutions"
+availability: "Open for AI/ML opportunities"
 ```
 
 </td>
@@ -46,10 +46,10 @@ availability: "Open for exciting opportunities"
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="100%"/>
 
 **⚡ Quick Stats**
-- 🔥 **1+ years** of coding experience  
-- 🚀 **20+ projects** completed  
-- 🌟 **10+ technologies** mastered  
-- 💡 **∞** problems solved  
+- 🔥 **1+ years** of AI/ML experience  
+- 🚀 **20+ projects** in Deep Learning  
+- 🌟 **15+ frameworks** mastered  
+- 💡 **∞** models trained  
 - ☕ **1000+** cups of coffee consumed  
 
 </td>
@@ -60,31 +60,63 @@ availability: "Open for exciting opportunities"
 
 ---
 
-## 🛠️ **Technology Arsenal** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+## 🛠️ **AI/ML Technology Arsenal** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
 
 <div align="center">
 
 ### **🔥 Core Programming Languages**
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,solidity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,solidity&theme=dark" />
 
-### **🎨 Frontend Mastery**
+### **🤖 Deep Learning & AI Frameworks**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+### **🧠 LLMs & Transformers**
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/BERT-FFA500?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+
+### **🔧 Agentic AI & LLM Tools**
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangSmith-FF6B6B?style=for-the-badge&logo=smartthings&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+
+### **📊 Mathematics & Statistics**
+<img src="https://img.shields.io/badge/Linear_Algebra-FF6B6B?style=for-the-badge&logo=matrix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Calculus-4ECDC4?style=for-the-badge&logo=wolfram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Probability-45B7D1?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-96CEB4?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+### **🎨 Frontend Stack (MERN)**
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui&theme=dark" />
 
 ### **⚙️ Backend Excellence** 
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 
-### **🗄️ Database & Storage**
+### **🗄️ Database & Vector Stores**
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+<br/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0081CB?style=for-the-badge&logo=facebook&logoColor=white"/>
 
 ### **☁️ Cloud & DevOps**
 <img src="https://skillicons.dev/icons?i=aws,docker,github,git,postman&theme=dark" />
 
-### **🤖 AI/ML & Blockchain**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-<br/>
+### **🔗 Blockchain (Supporting)**
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 
 </div>
 
@@ -110,7 +142,6 @@ availability: "Open for exciting opportunities"
 ### 🔥 **GitHub Streak & Longest Streak Analytics**
 <div align="center">
 
-<!-- Primary Streak Display - Shows Current, Longest, and Total -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="GitHub Streak Stats"/>
 
 </div>
@@ -193,44 +224,44 @@ availability: "Open for exciting opportunities"
 <tr>
 <td align="center">
 <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="80"/>
-<br/><b>🔥 Streak Master</b>
-<br/><sub>Consistent Daily Commits</sub>
+<br/><b>🔥 Model Trainer</b>
+<br/><sub>Optimized Neural Networks</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
-<br/><b>💡 Problem Solver</b>
-<br/><sub>Complex Algorithm Solutions</sub>
+<br/><b>💡 AI Innovator</b>
+<br/><sub>Novel Architecture Design</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="80"/>
-<br/><b>🚀 Innovator</b>
-<br/><sub>Cutting-edge Technologies</sub>
+<br/><b>🚀 LLM Expert</b>
+<br/><sub>Transformer Implementations</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"/>
-<br/><b>📚 Lifelong Learner</b>
-<br/><sub>Continuous Skill Development</sub>
+<br/><b>📚 Research Focused</b>
+<br/><sub>Continuous Learning</sub>
 </td>
 </tr>
 </table>
 
-### 🎯 **Streak Milestones & Goals Dashboard**
+### 🎯 **AI/ML Milestones & Goals Dashboard**
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🎯%20Next%20Target-100%20Days-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
+<img src="https://img.shields.io/badge/🎯%20Next%20Target-Production%20LLM-FF6B6B?style=for-the-badge&labelColor=1e2139"/>
 <br/><sub><b>Upcoming Milestone</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🏅%20Recent%20Win-30%20Days-FFD93D?style=for-the-badge&labelColor=1e2139"/>
+<img src="https://img.shields.io/badge/🏅%20Recent%20Win-Agent%20System-FFD93D?style=for-the-badge&labelColor=1e2139"/>
 <br/><sub><b>Latest Achievement</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/💪%20Ultimate%20Goal-365%20Days-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
+<img src="https://img.shields.io/badge/💪%20Ultimate%20Goal-Research%20Paper-4ECDC4?style=for-the-badge&labelColor=1e2139"/>
 <br/><sub><b>Annual Challenge</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/📊%20Status-Tracking-45B7D1?style=for-the-badge&labelColor=1e2139"/>
+<img src="https://img.shields.io/badge/📊%20Status-Training-45B7D1?style=for-the-badge&labelColor=1e2139"/>
 <br/><sub><b>Live Monitoring</b></sub>
 </td>
 <td align="center" width="20%">
@@ -244,7 +275,7 @@ availability: "Open for exciting opportunities"
 
 ---
 
-## 🌱 **Advanced Learning Roadmap** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+## 🌱 **AI/ML Learning Roadmap** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
 <div align="center">
 
@@ -252,26 +283,54 @@ availability: "Open for exciting opportunities"
 <tr>
 <td width="50%">
 
-### 🔗 **Blockchain & Web3**
+### 🧠 **Deep Learning & Neural Networks**
+```python
+deep_learning_stack = {
+    "architectures": ["CNN", "RNN", "LSTM", "GRU"],
+    "advanced": ["Transformers", "GANs", "VAE"],
+    "current_focus": ["Attention Mechanisms", "Vision Transformers"],
+    "optimization": ["Adam", "SGD", "RMSprop", "AdamW"]
+}
+```
+
+</td>
+<td width="50%">
+
+### 🤖 **LLMs & Transformers**
+```python
+llm_expertise = {
+    "models": ["BERT", "GPT", "T5", "Llama", "Gemini"],
+    "techniques": ["LoRA", "QLoRA", "PEFT", "RLHF"],
+    "frameworks": ["HuggingFace", "LangChain", "LlamaIndex"],
+    "deployment": ["Ollama", "vLLM", "TensorRT-LLM"]
+}
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔧 **Agentic AI Development**
 ```javascript
-const web3Skills = {
-  current: ["Solidity", "Web3.js", "Smart Contracts"],
-  learning: ["DeFi Protocols", "NFT Development"],
-  next: ["Rust", "Polkadot", "Layer 2 Solutions"],
-  timeline: "Q3-Q4 2025"
+const agenticAI = {
+  frameworks: ["LangChain", "LangGraph", "AutoGPT"],
+  tools: ["LangSmith", "LangServe", "Crew AI"],
+  patterns: ["ReAct", "Chain-of-Thought", "Tree-of-Thoughts"],
+  memory: ["Vector Stores", "Semantic Search", "RAG"]
 };
 ```
 
 </td>
 <td width="50%">
 
-### 🤖 **AI/ML Advanced**
+### 📊 **Mathematics Foundation**
 ```python
-ai_roadmap = {
-    "deep_learning": ["Transformers", "GANs", "CNN"],
-    "nlp": ["BERT", "GPT", "LLaMA", "Hugging Face"],
-    "reinforcement": ["Q-Learning", "PPO", "DDPG"],
-    "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"]
+math_core = {
+    "linear_algebra": ["Matrices", "Vectors", "Eigenvalues"],
+    "calculus": ["Gradients", "Backpropagation", "Optimization"],
+    "probability": ["Bayes", "Distributions", "Statistics"],
+    "information_theory": ["Entropy", "KL Divergence"]
 }
 ```
 
@@ -279,17 +338,18 @@ ai_roadmap = {
 </tr>
 </table>
 
-### **📈 Current Focus Areas**
-- 🔥 **Advanced React Patterns** - Hooks, Context, Performance Optimization
-- ⚡ **Microservices Architecture** - Docker, Kubernetes, Service Mesh
-- 🌐 **Web3 Integration** - DApp Development, Smart Contract Auditing
-- 🤖 **MLOps Pipeline** - Model Deployment, Monitoring, Automation
+### **📈 Current AI/ML Focus Areas**
+- 🔥 **Large Language Models** - Fine-tuning, PEFT, LoRA, QLoRA
+- ⚡ **Agentic AI Systems** - Multi-agent frameworks, Tool integration
+- 🌐 **RAG Architectures** - Vector databases, Semantic search, Context retrieval
+- 🤖 **Computer Vision** - Object detection, Image segmentation, Vision transformers
+- 📊 **MLOps Pipeline** - Model deployment, Monitoring, CI/CD for ML
 
 </div>
 
 ---
 
-## 🎨 **Featured Repositories** <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40">
+## 🎨 **Featured AI/ML Repositories** <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40">
 
 <div align="center">
 
@@ -321,9 +381,10 @@ ai_roadmap = {
 </table>
 
 ### **💡 What I'm Currently Working On**
-- 🔐 **DeFi Protocol** - Building a decentralized lending platform
-- 🤖 **AI-Powered Analytics** - Machine learning for data insights  
-- 🌐 **Full-Stack E-commerce** - React + Node.js + MongoDB
+- 🤖 **LLM Fine-tuning Pipeline** - Custom domain-specific language models
+- 🧠 **Multi-Agent AI System** - LangGraph-based autonomous agents  
+- 📊 **Computer Vision Project** - Real-time object detection with YOLO
+- 🔍 **RAG Application** - Document Q&A system with vector databases
 
 </div>
 
@@ -351,7 +412,7 @@ ai_roadmap = {
 <a href="https://twitter.com/DevarshiLalani">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<br/><sub><b>Tech Updates</b></sub>
+<br/><sub><b>AI/ML Updates</b></sub>
 </td>
 <td align="center">
 <a href="mailto:thelogical369@gmail.com">
@@ -363,13 +424,13 @@ ai_roadmap = {
 </table>
 
 ### 🎯 **Currently Open For:**
-<img src="https://img.shields.io/badge/💼%20Job%20Opportunities-Available-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤝%20Collaborations-Welcome-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎓%20Mentoring-Active-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💡%20Consulting-Open-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼%20AI%2FML%20Roles-Available-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤝%20Research%20Collab-Welcome-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓%20AI%20Mentoring-Active-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💡%20ML%20Consulting-Open-purple?style=for-the-badge"/>
 
 ### 💬 **Availability Status**
-> 🟢 **Available for exciting opportunities!**  
+> 🟢 **Available for AI/ML opportunities!**  
 > 📅 **Response time: Within 24 hours**  
 > 🌐 **Timezone: IST (UTC +05:30)**  
 > 💼 **Preferred work style: Remote/Hybrid**
@@ -382,9 +443,9 @@ ai_roadmap = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling"/>
 
-### 🚀 **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
+### 🚀 **"The science of today is the technology of tomorrow"** - Edward Teller
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🤝+Let's+build+something+amazing+together!;💡+Always+learning%2C+always+growing!;🚀+The+future+is+decentralized!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🤝+Let's+build+intelligent+systems+together!;💡+Always+learning%2C+always+experimenting!;🚀+The+future+is+AI-powered!" />
 
 <br/>
 
@@ -394,6 +455,6 @@ ai_roadmap = {
 
 ---
 
-<sub>⚡ **Fun Fact:** This README is a living document that evolves with my journey! 🎨</sub>
+<sub>⚡ **Fun Fact:** This README evolves as my AI/ML journey progresses! 🤖</sub>
 
 </div>
