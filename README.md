@@ -455,6 +455,6 @@ math_core = {
 
 ---
 
-<sub>⚡ **Fun Fact:** This README evolves as my AI/ML journey progresses! 🤖</sub>
+<sub>⚡ **Fun Fact:** This README evolves as my AI/ML journey progresses .! 🤖</sub>
 
 </div>
