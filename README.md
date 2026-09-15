@@ -194,6 +194,7 @@
   #minimap{
     width:78px; flex:0 0 auto; background:var(--bg-panel); border-left:1px solid var(--border-soft);
     padding:14px 10px; overflow:hidden; cursor:pointer;
+    position:relative;
   }
   .mm-line{ height:2px; margin-bottom:3px; background:var(--text-faint); opacity:.28; border-radius:1px; }
   .mm-line.h1{ background:var(--amber); opacity:.55; }
@@ -621,6 +622,7 @@
     }
     renderTabs();
     renderEditor();
+    highlightSidebarActive(activeFile);
   }
 
   function renderTabs(){
@@ -788,7 +790,6 @@
       termPrint('term-out', 'Ahmedabad, IN · currently building agentic AI systems @ Acqurie.io');
     },
     skills: function(){
-      Object.keys(FILES["skills.json"].raw ? {} : {});
       termPrint('term-hd', 'core stack');
       termPrint('term-out', '  LangChain · LangGraph · RAG · OpenAI API · Gemini · HuggingFace');
       termPrint('term-out', '  Python · TypeScript · React · Node.js · FastAPI');
@@ -1010,8 +1011,6 @@
     appEl.classList.add('show');
     setTimeout(function(){ bootEl.style.display = 'none'; }, 650);
     openFile('about.md');
-    setTimeout(function(){ if(openTabs.indexOf('skills.json')===-1) openFile('skills.json'); }, 120);
-    setTimeout(function(){ openFile('about.md'); }, 200);
   }
 
   function runBoot(){
