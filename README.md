@@ -1,8 +1,16 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:1F6FEB,75:7C3AED,100:22D3EE&text=DEVARSHI%20LALANI&fontColor=FFFFFF&fontSize=38&fontAlignY=34&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20FULL-STACK%20ENGINEER&descAlignY=55&animation=fadeIn" alt="Devarshi Lalani header" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=60&lines=devarshi%40portfolio%3A~%24+whoami;Devarshi+Lalani+%7C+AI%2FML+Engineer;Building+reliable+agentic+AI+systems" alt="Devarshi Lalani — AI/ML Engineer" />
 
 <br />
+
+<img src="https://komarev.com/ghpvc/?username=codeMaestro78&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/codeMaestro78?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING_AI_SYSTEMS-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Current status" />
+
+<br /><br />
 
 <a href="https://linkedin.com/in/devarshilalani05"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
 <a href="https://github.com/codeMaestro78"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" /></a>
@@ -54,6 +62,14 @@ prototypes into production systems people can actually use.
 </pre>
 
 ~/stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nextjs,nodejs,fastapi,django,postgres,redis,docker,aws,gcp,git&theme=dark&perline=8" alt="Technology stack" />
+
+</div>
+
+<br />
 
 <pre>
 ┌──(devarshi㉿portfolio)-[~]
@@ -146,6 +162,10 @@ certifications:
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=codeMaestro78&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+
+<br /><br />
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Devarshi's GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeMaestro78&theme=github_dark&hide_border=true&layout=compact" alt="Devarshi's most used languages" />
 
@@ -173,5 +193,7 @@ Connection ready. Let's build something meaningful.
 <div align="center">
 
 <sub><code>devarshi@portfolio:~$ exit 0</code></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,45:7C3AED,100:1F6FEB&animation=fadeIn" alt="Animated gradient footer" />
 
 </div>
