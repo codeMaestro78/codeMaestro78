@@ -142,6 +142,25 @@ skills/
     └─ Wallet connection · live transaction-state components
 </pre>
 
+~/open-source
+
+<pre>
+┌──(devarshi㉿portfolio)-[~/open-source]
+└─$ git shortlog -sn --all --author="codeMaestro78"
+
+Contributing fixes and infrastructure improvements to
+tools used across production ML and developer workflows.
+</pre>
+
+### 🛠️ Open Source & Infrastructure Contributions
+
+| Project | Domain / Stack | Key Contribution / Impact |
+| :--- | :--- | :--- |
+| **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | React / Ink / TypeScript CLI | [Issue #7564](https://github.com/google-gemini/gemini-cli/issues/7564): Diagnosed & resolved UX TUI dialog flickering in `/settings` |
+| **[Netflix/metaflow](https://github.com/Netflix/metaflow)** | Python / ML Infrastructure | [Closed PRs](https://github.com/Netflix/metaflow/pulls?q=is%3Apr+state%3Aclosed+author%3AcodeMaestro78): Bug fixes & infrastructure improvements for ML orchestration workflows |
+| **[HSF/phoenix](https://github.com/HSF/phoenix)** | C++ / High Energy Physics | [PR #763](https://github.com/HSF/phoenix/pull/763): Core framework enhancements & event display bug fixes |
+| **[codeMaestro78/MLcli](https://github.com/codeMaestro78/MLcli)** | Python / TUI / Machine Learning | Built a modular CLI & TUI toolkit for ML training, evaluation, and experiment tracking |
+
 ~/education
 
 <pre>
