@@ -1,15 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D1117,50:1F6FEB,100:22D3EE&text=DEVARSHI%20LALANI&fontColor=FFFFFF&fontSize=44&fontAlignY=40&desc=%24%20ai_ml_engineer%20--full-stack%20--agentic&descAlignY=62&descSize=18&animation=fadeIn" alt="Devarshi Lalani" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=3FB950&center=true&vCenter=true&width=760&height=50&lines=%24+whoami;devarshi+%E2%80%94+AI%2FML+Engineer+%C2%B7+Full-Stack+Engineer;%24+cat+mission.txt;Building+reliable+agentic+AI+systems;%24+.%2Fship+--to+production" alt="typing intro" />
+<img src="./assets/terminal-hero.svg" width="860" alt="Terminal: whoami --verbose — Devarshi Lalani, AI/ML Engineer and Full-Stack Engineer" />
 
 <br />
+
+<a href="#about"><img src="https://img.shields.io/badge/1-about-0D1117?style=flat-square&labelColor=1F6FEB" alt="about" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/2-stack-0D1117?style=flat-square&labelColor=1F6FEB" alt="stack" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/3-experience-0D1117?style=flat-square&labelColor=1F6FEB" alt="experience" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/4-projects-0D1117?style=flat-square&labelColor=1F6FEB" alt="projects" /></a>
+<a href="#open-source"><img src="https://img.shields.io/badge/5-open--source-0D1117?style=flat-square&labelColor=1F6FEB" alt="open-source" /></a>
+<a href="#education"><img src="https://img.shields.io/badge/6-education-0D1117?style=flat-square&labelColor=1F6FEB" alt="education" /></a>
+<a href="#telemetry"><img src="https://img.shields.io/badge/7-telemetry-0D1117?style=flat-square&labelColor=1F6FEB" alt="telemetry" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/8-contact-0D1117?style=flat-square&labelColor=1F6FEB" alt="contact" /></a>
+
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=codeMaestro78&style=flat-square&color=1F6FEB&label=VISITORS" alt="views" />
 <img src="https://img.shields.io/github/followers/codeMaestro78?style=flat-square&color=7C3AED&labelColor=0D1117&logo=github" alt="followers" />
 <img src="https://img.shields.io/badge/status-building_AI_systems-3FB950?style=flat-square&labelColor=0D1117" alt="status" />
-<img src="https://img.shields.io/badge/uptime-2026.09_LTS-22D3EE?style=flat-square&labelColor=0D1117" alt="release" />
 
 </div>
 
@@ -17,20 +25,22 @@
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
-└─$ sudo ./boot-profile.sh
+└─$ ./boot-profile.sh --verbose
 
-[  OK  ] Mounted identity.service ........................ loaded
-[  OK  ] Started projects.mount .......................... 4 featured
-[  OK  ] Started agentic-ai.service ...................... online
+[  OK  ] Started identity.service
+[  OK  ] Mounted /home/devarshi/projects
+[  OK  ] Started agentic-ai.service
 [  OK  ] Reached target rag-pipelines.target
 [  OK  ] Reached target production-ready.target
 
-Welcome to DevarshiOS 2026.09 LTS (GNU/Linux 6.x · ahmedabad-in)
+Welcome to DevarshiOS 2026.09 LTS (GNU/Linux · ahmedabad-in)
+
+ * Docs:      https://github.com/codeMaestro78
+ * Contact:   devarshilalani.devflow@gmail.com
+ * Tip:       run `cat about.md` to get started
 ```
 
----
-
-## `~/neofetch`
+## ~/about
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -63,9 +73,7 @@ Welcome to DevarshiOS 2026.09 LTS (GNU/Linux 6.x · ahmedabad-in)
   prototypes into production systems people can actually use.
 ```
 
----
-
-## `~/stack`
+## ~/stack
 
 <div align="center">
 
@@ -98,9 +106,7 @@ skills/
 8 directories, 0 excuses
 ```
 
----
-
-## `~/experience`
+## ~/experience
 
 ```console
 ┌──(devarshi㉿portfolio)-[~/experience]
@@ -121,18 +127,17 @@ skills/
     └─ Developed an SME cash-flow forecasting system
 ```
 
----
-
-## `~/projects`
+## ~/projects
 
 ```console
 ┌──(devarshi㉿portfolio)-[~/projects]
 └─$ ls -lah --featured
 
-drwxr-xr-x  AllotIQ .................. agentic IPO intelligence + portfolio platform
-drwxr-xr-x  MLCLI-Toolkit ............ open-source ML/DL training CLI (pip package)
-drwxr-xr-x  AlphaVista ............... AI-assisted stock analysis platform
-drwxr-xr-x  Blockchain-Transaction-UI  open-source TS/React npm package
+total 4
+drwxr-xr-x  01  AllotIQ ..................  agentic IPO intelligence + portfolio platform
+drwxr-xr-x  02  MLCLI-Toolkit ............  open-source ML/DL training CLI (pip package)
+drwxr-xr-x  03  AlphaVista ...............  AI-assisted stock analysis platform
+drwxr-xr-x  04  Blockchain-Transaction-UI   open-source TypeScript/React npm package
 ```
 
 | # | Project | What it does | Stack |
@@ -142,9 +147,7 @@ drwxr-xr-x  Blockchain-Transaction-UI  open-source TS/React npm package
 | 03 | **AlphaVista** | Stock analysis with price prediction, VADER sentiment, and live market APIs | `Python` `VADER` `Redis` |
 | 04 | **Blockchain Transaction UI** | npm package with wallet connection and live transaction-state components | `TypeScript` `React` |
 
----
-
-## `~/open-source`
+## ~/open-source
 
 ```console
 ┌──(devarshi㉿portfolio)-[~/open-source]
@@ -161,9 +164,7 @@ drwxr-xr-x  Blockchain-Transaction-UI  open-source TS/React npm package
 | **[HSF/phoenix](https://github.com/HSF/phoenix)** | C++ · High Energy Physics | [PR #763](https://github.com/HSF/phoenix/pull/763) — core framework enhancements and event display bug fixes |
 | **[codeMaestro78/MLcli](https://github.com/codeMaestro78/MLcli)** | Python · TUI · ML | Built a modular CLI/TUI toolkit for ML training, evaluation, and tracking |
 
----
-
-## `~/education`
+## ~/education
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -179,9 +180,12 @@ certifications:
   - Exploratory Data Analysis for ML ...... Jan 2025
 ```
 
----
+## ~/telemetry
 
-## `~/telemetry`
+```console
+┌──(devarshi㉿portfolio)-[~]
+└─$ htop --user=codeMaestro78
+```
 
 <div align="center">
 
@@ -200,9 +204,7 @@ certifications:
 
 </div>
 
----
-
-## `~/contact`
+## ~/contact
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -225,8 +227,6 @@ Let's build something meaningful.
 
 <br /><br />
 
-<sub><code>devarshi@portfolio:~$ exit 0</code></sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22D3EE,50:7C3AED,100:1F6FEB&animation=fadeIn" alt="footer" />
+<img src="./assets/tmux-footer.svg" width="860" alt="tmux status bar: devarshi@portfolio exit 0" />
 
 </div>
