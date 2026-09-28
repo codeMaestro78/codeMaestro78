@@ -193,14 +193,13 @@ certifications:
 
 <br /><br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codeMaestro78&show_icons=true&theme=github_dark&hide_border=true" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeMaestro78&theme=github_dark&hide_border=true&layout=compact" alt="top languages" />
 
 <br />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeMaestro78&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
