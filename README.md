@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-hero.svg" width="860" alt="Terminal: whoami --verbose — Devarshi Lalani, AI/ML Engineer and Full-Stack Engineer" />
+<img src="terminal-hero.svg" width="860" alt="Terminal: whoami --verbose — Devarshi Lalani, AI/ML Engineer and Full-Stack Engineer" />
 
 <br />
 
@@ -227,6 +227,6 @@ Let's build something meaningful.
 
 <br /><br />
 
-<img src="./assets/tmux-footer.svg" width="860" alt="tmux status bar: devarshi@portfolio exit 0" />
+<img src="tmux-footer.svg" width="860" alt="tmux status bar: devarshi@portfolio exit 0" />
 
 </div>
