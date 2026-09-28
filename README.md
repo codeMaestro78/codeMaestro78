@@ -200,6 +200,7 @@ certifications:
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="streak" />
 
+<img width="100%" src="https://raw.githubusercontent.com/codeMaestro78/codeMaestro78/output/github-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
