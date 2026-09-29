@@ -225,6 +225,8 @@ Let's build something meaningful.
 <a href="https://github.com/codeMaestro78"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" /></a>
 <a href="mailto:devarshilalani.devflow@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
 
+
+
 <br /><br />
 
 <img src="tmux-footer.svg" width="860" alt="tmux status bar: devarshi@portfolio exit 0" />
