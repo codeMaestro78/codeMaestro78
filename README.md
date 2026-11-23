@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal-hero (1).svg" width="860" alt="Animated terminal: whoami --verbose — Devarshi Lalani, AI/ML Engineer and Full-Stack Engineer" />
+<img src="terminal-hero (1).svg" width="860" alt="Animated terminal: whoami --verbose — Devarshi Lalani, AI/ML Engineer and Full-Stack Engineer" />
 
 <a href="https://github.com/codeMaestro78">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=860&height=44&lines=Building+agentic+AI+that+reasons%2C+retrieves%2C+and+ships;RAG+%C2%B7+LangGraph+%C2%B7+multi-tenant+AI+orchestration;Now+live%3A+HogsKin+%E2%86%92+hogskin.vercel.app;Shipping+PRs+to+future-agi%2C+gemini-cli+%26+metaflow" alt="Typing animation: agentic AI, RAG, orchestration, HogsKin, open source" />
@@ -254,6 +254,6 @@ Let's build something meaningful.
 
 <br /><br />
 
-<img src="assets/tmux-footer (1).svg" width="860" alt="tmux status bar: devarshi@portfolio exit 0" />
+<img src="tmux-footer (1).svg" width="860" alt="tmux status bar: devarshi@portfolio exit 0" />
 
 </div>
