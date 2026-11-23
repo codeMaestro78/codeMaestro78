@@ -211,7 +211,7 @@ certifications:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codeMaestro78&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="trophies" />
+<img src="trophies.svg" width="860" alt="GitHub trophies" />
 
 <br /><br />
 
