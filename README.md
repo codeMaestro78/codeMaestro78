@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="terminal-hero.svg" width="860" alt="Terminal: whoami --verbose — Devarshi Lalani, AI/ML Engineer and Full-Stack Engineer" />
+<img src="assets/terminal-hero.svg" width="860" alt="Animated terminal: whoami --verbose — Devarshi Lalani, AI/ML Engineer and Full-Stack Engineer" />
+
+<a href="https://github.com/codeMaestro78">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=860&height=44&lines=Building+agentic+AI+that+reasons%2C+retrieves%2C+and+ships;RAG+%C2%B7+LangGraph+%C2%B7+multi-tenant+AI+orchestration;Now+live%3A+HogsKin+%E2%86%92+hogskin.vercel.app;Shipping+PRs+to+future-agi%2C+gemini-cli+%26+metaflow" alt="Typing animation: agentic AI, RAG, orchestration, HogsKin, open source" />
+</a>
 
 <br />
 
@@ -18,6 +22,7 @@
 <img src="https://komarev.com/ghpvc/?username=codeMaestro78&style=flat-square&color=1F6FEB&label=VISITORS" alt="views" />
 <img src="https://img.shields.io/github/followers/codeMaestro78?style=flat-square&color=7C3AED&labelColor=0D1117&logo=github" alt="followers" />
 <img src="https://img.shields.io/badge/status-building_AI_systems-3FB950?style=flat-square&labelColor=0D1117" alt="status" />
+<a href="https://hogskin.vercel.app"><img src="https://img.shields.io/badge/HogsKin-live-22D3EE?style=flat-square&labelColor=0D1117&logo=vercel&logoColor=white" alt="HogsKin live" /></a>
 
 </div>
 
@@ -32,15 +37,17 @@
 [  OK  ] Started agentic-ai.service
 [  OK  ] Reached target rag-pipelines.target
 [  OK  ] Reached target production-ready.target
+[ LIVE ] hogskin.vercel.app ............ 200 OK
 
-Welcome to DevarshiOS 2026.09 LTS (GNU/Linux · ahmedabad-in)
+Welcome to DevarshiOS 2026.11 LTS (GNU/Linux · ahmedabad-in)
 
  * Docs:      https://github.com/codeMaestro78
  * Contact:   devarshilalani.devflow@gmail.com
  * Tip:       run `cat about.md` to get started
 ```
 
-## ~/about
+<a id="about"></a>
+<div align="center"><img src="assets/h-about.svg" width="860" alt="~/about" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -48,7 +55,7 @@ Welcome to DevarshiOS 2026.09 LTS (GNU/Linux · ahmedabad-in)
 
      ____                                devarshi@portfolio
     |  _ \  ___ __   __                   ------------------
-    | | | |/ _ \\ \ / /                   OS ........ DevarshiOS 2026.09 LTS
+    | | | |/ _ \\ \ / /                   OS ........ DevarshiOS 2026.11 LTS
     | |_| |  __/ \ V /                    Role ...... AI/ML Engineer · Full-Stack Engineer
     |____/ \___|  \_/                     Work ...... SDE @ acquire.io
     |  _ \| |                             Focus ..... Agentic AI · RAG · AI orchestration
@@ -73,9 +80,14 @@ Welcome to DevarshiOS 2026.09 LTS (GNU/Linux · ahmedabad-in)
   prototypes into production systems people can actually use.
 ```
 
-## ~/stack
+<a id="stack"></a>
+<div align="center"><img src="assets/h-stack.svg" width="860" alt="~/stack" /></div>
 
 <div align="center">
+
+<img src="assets/stack-marquee.svg" width="860" alt="Scrolling tech stack" />
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nextjs,nodejs,fastapi,django,postgres,redis,docker,aws,gcp,git&theme=dark&perline=8" alt="Tech stack" />
 
@@ -106,11 +118,18 @@ skills/
 8 directories, 0 excuses
 ```
 
-## ~/experience
+<a id="experience"></a>
+<div align="center"><img src="assets/h-experience.svg" width="860" alt="~/experience" /></div>
+
+<div align="center">
+
+<img src="assets/experience.svg" width="860" alt="git log --graph: SDE at acquire.io, ML Intern at fxis.ai, ML Intern at Feynn Labs" />
+
+</div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~/experience]
-└─$ git log --graph --oneline --decorate
+└─$ git show HEAD --stat
 
 * 2026-03..now   (HEAD -> main) Software Development Engineer · acquire.io
 │   ├─ Building multi-tenant agentic AI orchestration features
@@ -127,27 +146,27 @@ skills/
     └─ Developed an SME cash-flow forecasting system
 ```
 
-## ~/projects
+<a id="projects"></a>
+<div align="center"><img src="assets/h-projects.svg" width="860" alt="~/projects" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~/projects]
 └─$ ls -lah --featured
 
-total 4
-drwxr-xr-x  01  AllotIQ ..................  agentic IPO intelligence + portfolio platform
-drwxr-xr-x  02  MLCLI-Toolkit ............  open-source ML/DL training CLI (pip package)
-drwxr-xr-x  03  AlphaVista ...............  AI-assisted stock analysis platform
-drwxr-xr-x  04  Blockchain-Transaction-UI   open-source TypeScript/React npm package
+total 3
+drwxr-xr-x  01  HogsKin ..................  live product · hogskin.vercel.app
+drwxr-xr-x  02  AllotIQ ..................  agentic IPO intelligence + portfolio platform
+drwxr-xr-x  03  MLCLI-Toolkit ............  open-source ML/DL training CLI (pip package)
 ```
 
 | # | Project | What it does | Stack |
 | :-: | :-- | :-- | :-- |
-| 01 | **[AllotIQ](https://allotiq.in)** | Evidence-backed analyst reports, grounded AI chat, deterministic apply / wait / avoid scoring, citation validation and hallucination guardrails | `LangChain` `GPT-4o-mini` `FastAPI` `Next.js` `PostgreSQL` |
-| 02 | **[MLCLI Toolkit](https://github.com/codeMaestro78/MLcli)** | Modular CLI and TUI for ML training, evaluation, model registry, explainability, and experiment tracking | `Scikit-learn` `TensorFlow` |
-| 03 | **AlphaVista** | Stock analysis with price prediction, VADER sentiment, and live market APIs | `Python` `VADER` `Redis` |
-| 04 | **Blockchain Transaction UI** | npm package with wallet connection and live transaction-state components | `TypeScript` `React` |
+| 01 | **[HogsKin](https://hogskin.vercel.app)** · [source](https://github.com/codeMaestro78/Hodgkin/tree/master) | Production web app, live at [hogskin.vercel.app](https://hogskin.vercel.app) | `Vercel` |
+| 02 | **[AllotIQ](https://allotiq.in)** | Evidence-backed analyst reports, grounded AI chat, deterministic apply / wait / avoid scoring, citation validation and hallucination guardrails | `LangChain` `GPT-4o-mini` `FastAPI` `Next.js` `PostgreSQL` |
+| 03 | **[MLCLI Toolkit](https://github.com/codeMaestro78/MLcli)** | Modular CLI and TUI for ML training, evaluation, model registry, explainability, and experiment tracking | `Scikit-learn` `TensorFlow` |
 
-## ~/open-source
+<a id="open-source"></a>
+<div align="center"><img src="assets/h-open-source.svg" width="860" alt="~/open-source" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~/open-source]
@@ -159,12 +178,14 @@ drwxr-xr-x  04  Blockchain-Transaction-UI   open-source TypeScript/React npm pac
 
 | Project | Domain | Contribution |
 | :-- | :-- | :-- |
+| **[future-agi/future-agi](https://github.com/future-agi/future-agi)** 🆕 | Open-source AI agent evals · observability | [PR #2796](https://github.com/future-agi/future-agi/pull/2796) — escape-first sanitizer for notification HTML, with safe handling of missing titles (closes #2795) |
 | **[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)** | React · Ink · TypeScript CLI | [Issue #7564](https://github.com/google-gemini/gemini-cli/issues/7564) — diagnosed and resolved TUI dialog flickering in `/settings` |
 | **[Netflix/metaflow](https://github.com/Netflix/metaflow)** | Python · ML infrastructure | [Closed PRs](https://github.com/Netflix/metaflow/pulls?q=is%3Apr+state%3Aclosed+author%3AcodeMaestro78) — bug fixes and infra improvements for ML orchestration |
 | **[HSF/phoenix](https://github.com/HSF/phoenix)** | C++ · High Energy Physics | [PR #763](https://github.com/HSF/phoenix/pull/763) — core framework enhancements and event display bug fixes |
 | **[codeMaestro78/MLcli](https://github.com/codeMaestro78/MLcli)** | Python · TUI · ML | Built a modular CLI/TUI toolkit for ML training, evaluation, and tracking |
 
-## ~/education
+<a id="education"></a>
+<div align="center"><img src="assets/h-education.svg" width="860" alt="~/education" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -180,7 +201,8 @@ certifications:
   - Exploratory Data Analysis for ML ...... Jan 2025
 ```
 
-## ~/telemetry
+<a id="telemetry"></a>
+<div align="center"><img src="assets/h-telemetry.svg" width="860" alt="~/telemetry" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -200,11 +222,14 @@ certifications:
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=codeMaestro78&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="streak" />
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeMaestro78&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=22D3EE&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+
 <img width="100%" src="https://raw.githubusercontent.com/codeMaestro78/codeMaestro78/output/github-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
-## ~/contact
+<a id="contact"></a>
+<div align="center"><img src="assets/h-contact.svg" width="860" alt="~/contact" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -215,6 +240,7 @@ Connection established.
   LinkedIn ... linkedin.com/in/devarshilalani05
   GitHub ..... github.com/codeMaestro78
   Email ...... devarshilalani.devflow@gmail.com
+  Live ....... hogskin.vercel.app
 
 Let's build something meaningful.
 ```
@@ -224,11 +250,10 @@ Let's build something meaningful.
 <a href="https://linkedin.com/in/devarshilalani05"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
 <a href="https://github.com/codeMaestro78"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" /></a>
 <a href="mailto:devarshilalani.devflow@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
-
-
+<a href="https://hogskin.vercel.app"><img src="https://img.shields.io/badge/HogsKin-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="HogsKin" /></a>
 
 <br /><br />
 
-<img src="tmux-footer.svg" width="860" alt="tmux status bar: devarshi@portfolio exit 0" />
+<img src="assets/tmux-footer.svg" width="860" alt="tmux status bar: devarshi@portfolio exit 0" />
 
 </div>
