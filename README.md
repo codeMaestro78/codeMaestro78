@@ -47,7 +47,7 @@ Welcome to DevarshiOS 2026.11 LTS (GNU/Linux · ahmedabad-in)
 ```
 
 <a id="about"></a>
-<div align="center"><img src="assets/h-about.svg" width="860" alt="~/about" /></div>
+<div align="center"><img src="h-about.svg" width="860" alt="~/about" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -81,11 +81,11 @@ Welcome to DevarshiOS 2026.11 LTS (GNU/Linux · ahmedabad-in)
 ```
 
 <a id="stack"></a>
-<div align="center"><img src="assets/h-stack.svg" width="860" alt="~/stack" /></div>
+<div align="center"><img src="h-stack.svg" width="860" alt="~/stack" /></div>
 
 <div align="center">
 
-<img src="assets/stack-marquee.svg" width="860" alt="Scrolling tech stack" />
+<img src="stack-marquee.svg" width="860" alt="Scrolling tech stack" />
 
 <br />
 
@@ -119,11 +119,11 @@ skills/
 ```
 
 <a id="experience"></a>
-<div align="center"><img src="assets/h-experience.svg" width="860" alt="~/experience" /></div>
+<div align="center"><img src="h-experience.svg" width="860" alt="~/experience" /></div>
 
 <div align="center">
 
-<img src="assets/experience.svg" width="860" alt="git log --graph: SDE at acquire.io, ML Intern at fxis.ai, ML Intern at Feynn Labs" />
+<img src="experience.svg" width="860" alt="git log --graph: SDE at acquire.io, ML Intern at fxis.ai, ML Intern at Feynn Labs" />
 
 </div>
 
@@ -147,7 +147,7 @@ skills/
 ```
 
 <a id="projects"></a>
-<div align="center"><img src="assets/h-projects.svg" width="860" alt="~/projects" /></div>
+<div align="center"><img src="h-projects.svg" width="860" alt="~/projects" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~/projects]
@@ -166,7 +166,7 @@ drwxr-xr-x  03  MLCLI-Toolkit ............  open-source ML/DL training CLI (pip 
 | 03 | **[MLCLI Toolkit](https://github.com/codeMaestro78/MLcli)** | Modular CLI and TUI for ML training, evaluation, model registry, explainability, and experiment tracking | `Scikit-learn` `TensorFlow` |
 
 <a id="open-source"></a>
-<div align="center"><img src="assets/h-open-source.svg" width="860" alt="~/open-source" /></div>
+<div align="center"><img src="h-open-source.svg" width="860" alt="~/open-source" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~/open-source]
@@ -185,7 +185,7 @@ drwxr-xr-x  03  MLCLI-Toolkit ............  open-source ML/DL training CLI (pip 
 | **[codeMaestro78/MLcli](https://github.com/codeMaestro78/MLcli)** | Python · TUI · ML | Built a modular CLI/TUI toolkit for ML training, evaluation, and tracking |
 
 <a id="education"></a>
-<div align="center"><img src="assets/h-education.svg" width="860" alt="~/education" /></div>
+<div align="center"><img src="h-education.svg" width="860" alt="~/education" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -202,7 +202,7 @@ certifications:
 ```
 
 <a id="telemetry"></a>
-<div align="center"><img src="assets/h-telemetry.svg" width="860" alt="~/telemetry" /></div>
+<div align="center"><img src="h-telemetry.svg" width="860" alt="~/telemetry" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
@@ -229,7 +229,7 @@ certifications:
 </div>
 
 <a id="contact"></a>
-<div align="center"><img src="assets/h-contact.svg" width="860" alt="~/contact" /></div>
+<div align="center"><img src="h-contact.svg" width="860" alt="~/contact" /></div>
 
 ```console
 ┌──(devarshi㉿portfolio)-[~]
